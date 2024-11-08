@@ -9,8 +9,8 @@ Today, I focused on wireframing and design in Figma, as well as refining my CSS 
 
 ## Progress:
 - Completed the wireframe for my homepage layout using Figma.
+- Completed the design of homepage
 - Applied CSS techniques learned from the tutorial to improve my design and styling skills.
-- Still have a little bit of work remaining to finalize the homepage design and improve responsive features.
 
 ## Files:
 - [Figma Design File](https://www.figma.com/design/u7Lags2AGQiaOHY7cV0QPu/Untitled?node-id=0-1&node-type=canvas&t=aXAVvzkCbYv4jzH3-0) (This is my work)
