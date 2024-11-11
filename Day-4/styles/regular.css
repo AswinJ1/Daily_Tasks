@@ -1,0 +1,13 @@
+.video-title{
+    font-family: roboto,Arial ;
+    font-weight: 500;
+    width: 250px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
+}
+body{
+    margin:0 ;
+    padding-top: 80px;
+    padding-left: 80px;
+}
